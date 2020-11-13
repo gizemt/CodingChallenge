@@ -1,2 +1,2 @@
 # Solutions to Coding Problems
-[LeetCode](./Leetcode/)
+[LeetCode](./tree/master/Leetcode/)
