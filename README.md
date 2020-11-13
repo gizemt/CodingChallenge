@@ -1,2 +1,2 @@
 # Solutions to Coding Problems
-[LeetCode](./tree/master/Leetcode/)
+[LeetCode](https://github.com/gizemt/CodingChallenge/tree/master/LeetCode)
